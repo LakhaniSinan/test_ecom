@@ -7,6 +7,7 @@ const Button = ({ title, onPress,color }) => {
 
 console.log("my name is javed");
 
+    console.log("hi i am sinan");
     return (
         <View style={{...styles.container,backgroundColor:color}}>
             <TouchableOpacity onPress={onPress}>
