@@ -59,7 +59,9 @@ const Login = (props) => {
     }
 
 
-    console.log(inputs, "INPUTTT");
+    console.log(inputs, "INPUTTTtyttttttttttttttttt");
+    console.log(inputs, "INPUTTTtyttsasasdasdasdtttttttttttttt");
+    console.log(inputs, "asodasdoasasond");
 
     return (
         <View style={{ flex: 1, backgroundColor: "white" }}>
