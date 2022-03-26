@@ -60,12 +60,7 @@ const Login = (props) => {
 
 
     console.log(inputs, "INPUTTTtyttttttttttttttttt");
-    console.log(inputs, "asodasdoasasond");
-    console.log(inputs, "asodasdoasasond");
-    console.log(inputs, "asodasdoasasond");
-    console.log(inputs, "asodasdoasasond");
-    console.log(inputs, "asodasdoasasond");
-
+    
     return (
         <View style={{ flex: 1, backgroundColor: "white" }}>
             <Header heading="Login" />
