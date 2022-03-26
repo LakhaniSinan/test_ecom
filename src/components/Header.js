@@ -3,6 +3,8 @@ import { View, Text, StyleSheet } from "react-native"
 import { header_background, main_heading_font } from "../constants"
 
 const Header = ({heading,color}) => {
+
+    console.log("my name is salman");
    
     return (
         <View style={styles.container}>
