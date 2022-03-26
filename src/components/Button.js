@@ -5,7 +5,7 @@ import { header_background, main_heading_font } from "../constants"
 
 const Button = ({ title, onPress,color }) => {
 
-
+console.log("my name is javed");
 
     return (
         <View style={{...styles.container,backgroundColor:color}}>
