@@ -4,9 +4,7 @@ import { TouchableOpacity } from "react-native-gesture-handler"
 import { header_background, main_heading_font } from "../constants"
 
 const Button = ({ title, onPress,color }) => {
-
-
-
+    console.log("hi i am sinan");
     return (
         <View style={{...styles.container,backgroundColor:color}}>
             <TouchableOpacity onPress={onPress}>
