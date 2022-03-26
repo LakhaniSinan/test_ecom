@@ -60,7 +60,6 @@ const Login = (props) => {
 
 
     console.log(inputs, "INPUTTTtyttttttttttttttttt");
-    console.log(inputs, "INPUTTTtyttsasasdasdasdtttttttttttttt");
     console.log(inputs, "asodasdoasasond");
 
     return (
