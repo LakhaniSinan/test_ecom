@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "209114120392",
+    "project_id": "fcmapp-c4b6c",
+    "storage_bucket": "fcmapp-c4b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209114120392:android:4d9d338fb5ecac3e70a5fd",
+        "android_client_info": {
+          "package_name": "com.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209114120392-90kavu0ae9lp1fp50hurign0uoc4sbho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecom",
+            "certificate_hash": "2fe15c6406d6f79e7eab5cf3315130ffe699d987"
+          }
+        },
+        {
+          "client_id": "209114120392-phbc5ervibavjtmqdj8ugkghif3uvbvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhnq1Fo_BsiPxAedxopSrnjkv0fTPZ4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209114120392-phbc5ervibavjtmqdj8ugkghif3uvbvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,7 +16,7 @@ export default function Navigation() {
     }, [])
 
     const getUserDetails = async () => {
-        const userData = await AsyncStorage.getItem("isUser")
+        const userData = await AsyncStorage.getItem("userData")
         console.log(userData, "userDatauserDatauserData");
         if (userData != null) {
             setUser(JSON.parse(userData))

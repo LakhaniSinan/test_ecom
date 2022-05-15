@@ -58,22 +58,6 @@ const deleteResource = api => {
 	});
 };
 
-const uploadContent = (api, data) => {
-	var formData = new FormData();
-	formData.append('file', data[0]);
-
-	return new Promise((resolve, reject) => {
-		axios
-			.post(`${api}`, formData, { headers: { 'xt-user-token': token } })
-			.then(res => {
-				resolve(res);
-			})
-			.catch(err => {
-				reject(err);
-			});
-	})
-};
-
 
 
 export {
